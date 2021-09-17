@@ -1,0 +1,16 @@
+{
+  "name": "onesignal-website-sdk-types",
+  "version": "0.1.0",
+  "description": "OneSignal Website SDK Typescript definitions",
+  "keywords": [
+    "onesignal",
+    "website",
+    "sdk",
+    "typescript",
+    "types"
+  ],
+  "types": "index.d.ts",
+  "scripts": {},
+  "author": "Toan Nguyen <hgiasac@gmail.com>",
+  "license": "MIT"
+}
